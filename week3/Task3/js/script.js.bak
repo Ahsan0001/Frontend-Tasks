@@ -1,0 +1,11 @@
+function revealMessage() {
+	document.getElementById("HiddenMessage").style.display = 'block';
+}
+
+function counter(){
+	var val = document.getElementById("count").innerHTML;
+	if(val > 0){
+		var newval = val-1;
+	}
+	document.getElementById("count").innerHTML = newval;
+}
