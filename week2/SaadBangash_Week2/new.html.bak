@@ -1,0 +1,82 @@
+<html>
+	<head>
+		<meta charset = "utf-8">
+		<title>CSS IMPLEMENTATION</title>
+		<link rel="stylesheet" type="text/css" href="style.css">
+	</head>
+		<body>
+			<section>
+			<p1>All User</p1>
+			<br>
+			<div class= "box1">
+				<div class = "circle">
+				</div>
+				<div class ="info">
+				<p>80x80</p>
+					<div class = "name"> 
+						Steven Johnson
+					</div>
+						<div class = "post">
+							Super Admin
+						</div>
+				</div>
+			</div>
+
+			<div class= "box2">
+				<div class = "circle">
+				</div>
+				<div class ="info">
+				<p>80x80</p>
+					<div class = "name"> 
+						Maria Jane
+					</div>
+					<div class = "post">
+							Super Admin
+						</div>
+				</div>
+			</div>
+			
+			<div class= "box3">
+				<div class = "circle">
+				</div>
+				<div class ="info">
+				<p>80x80</p>
+					<div class = "name"> 
+						Andrew Walles
+					</div>
+					<div class = "post">
+							Super Admin
+						</div>
+				</div>
+			</div>
+			
+			<div class= "box4">
+				<div class = "circle">
+				</div>
+				<div class ="info">
+				<p>80x80</p>
+					<div class = "name"> 
+						Walter Emma
+					</div>
+					<div class = "post">
+							Super Admin
+						</div>
+				</div>
+			</div>
+			
+			<div class= "box5">
+				<div class = "circle">
+				</div>
+				<div class ="info">
+				<p>80x80</p>
+					<div class = "name"> 
+						Stuart Johnson
+					</div>
+					<div class = "post">
+							Super Admin
+						</div>
+				</div>
+			</div>
+		</section>		
+		</body>
+</html>
